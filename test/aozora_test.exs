@@ -1,0 +1,2 @@
+defmodule AozoraTest do
+end
